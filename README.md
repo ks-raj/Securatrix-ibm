@@ -1,8 +1,10 @@
 # 🔐 Securatrix-IBM
 
+## 📌 Institution Info
 ## 📍 IBM ICE – Innovation Centre for Education  
 **YENEPOYA INSTITUTE OF ARTS, SCIENCE, COMMERCE AND MANAGEMENT**  
 *A Constituent Unit of Yenepoya Deemed to be University*
+
 
 ---
 
@@ -62,12 +64,6 @@ The project emphasizes the use of open-source tools such as **Wazuh** to collect
 | Mohammed Fairooz S  | 22BCIECS088      |
 
 ---
-
-## 📌 Institution Info
-
-> **IBM ICE – Innovation Centre for Education**  
-> **Yenepoya Institute of Arts, Science, Commerce and Management**  
-> *(Yenepoya Deemed to be University)*
 
 ---
 
